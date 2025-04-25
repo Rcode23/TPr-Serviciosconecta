@@ -19,7 +19,7 @@ public class Cliente {
         this.equipo = equipo;
     }
 
-    // Métodos getters (puedes añadir setters si los necesitas)
+   
     public String getNombre() {
         return nombre;
     }
